@@ -101,5 +101,9 @@ Happy coding and stay informed about the weather!
 
 <img src = "https://github.com/Omkar-bhambe/Assignment/blob/main/Weather_API/Output/Screenshot%202024-07-27%20003251.png" width = "350">
 
+### Wind Gust distribution
+
+<img src = "https://github.com/Omkar-bhambe/Assignment/blob/main/Weather_API/Output/Screenshot%202024-07-27%20003325.png" width = "350">
+
 
 
