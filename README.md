@@ -95,7 +95,7 @@ Happy coding and stay informed about the weather!
 
 ### Feels like Temperature over time plot 
 
-<img src = "https://github.com/Omkar-bhambe/Assignment/blob/main/Weather_API/Output/Screenshot%202024-07-27%20003243.png" width = "500">
+<img src = "https://github.com/Omkar-bhambe/Assignment/blob/main/Weather_API/Output/Feels Like Temp Over Time.png" width = "500">
 
 ### Wind Speed distribution(frequency vs wind speed plot)
 
