@@ -91,7 +91,7 @@ Happy coding and stay informed about the weather!
 
 ### Temperature over time plot 
 
-<img src = "https://github.com/Omkar-bhambe/Assignment/blob/main/Weather_API/Output/Screenshot%202024-07-27%20003235.png" width = "500">
+<img src = "https://github.com/Omkar-bhambe/Assignment/blob/main/Output/Temperature%20Over%20Time.png" width = "500">
 
 ### Feels like Temperature over time plot 
 
