@@ -103,7 +103,7 @@ Happy coding and stay informed about the weather!
 
 ### Wind Pie Plot
 
-<img src = "https://github.com/Omkar-bhambe/Assignment/blob/main/Weather_API/Output/Screenshot%202024-07-27%20003325.png" width = "500">
+<img src = "https://github.com/Omkar-bhambe/Assignment/blob/main/Output/Wind%20speed%20%20pie%20plot.png" width = "500">
 
 ### Humidity Distribution
 
