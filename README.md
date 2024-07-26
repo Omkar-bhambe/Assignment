@@ -79,13 +79,6 @@ Welcome to the Weather API Analyzer project! This Python-based application allow
 - `pandas`: For data manipulation and analysis
 - `seaborn` : Used for data mamipulation, analysis and visualisation
 
-
-## Contact
-
-For any questions or feedback, please open an issue on the GitHub repository or contact me at `bhambeomkar@gmail.com `.
-
-Happy coding and stay informed about the weather!
-
 ## An Overview of how it will looks like 
 
 <img src = "https://github.com/Omkar-bhambe/Assignment/blob/main/Output/Visualization%20sheet.png" width="700">
@@ -125,5 +118,11 @@ For the visualization i took Maharashtra into the consideration as far as the lo
 3. Step 3 :- Run visualize.py file once fetch_data.py is completely executed these file will analyze the data fetched from the API by accessing it throught the schema weather_data.db and then visualize it into graphs as shown in above images.
    
 4. Once this procces is completed a pop up sheet opens on the user interface and showcases all the plots in one sheet if user is using IDE while if they are jupyter notebook or google colab the result will be seen on the interpreter itself.
+
+## Contact
+
+For any questions or feedback, please open an issue on the GitHub repository or contact me at `bhambeomkar@gmail.com `.
+
+Happy coding and stay informed about the weather!
 
 
