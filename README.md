@@ -55,42 +55,32 @@ Welcome to the Weather API Analyzer project! This Python-based application allow
 
 2. **Interactive Commands**
 
-    After running the application, follow the prompts to enter a city name. The application will fetch the latest weather data for the specified city and display visualizations.
+    After running the application, follow the prompts to enter a place name. The application will fetch the latest weather data for the specified place and display visualizations.
 
     **Example**
 
     ```bash
-    Enter city name: London
+    Enter place name: London
     ```
 
     The application will provide a real-time weather report for London and display graphs such as temperature trends over time.
 
 ## Code Structure
 
-- `main.py`: The main script to run the application.
-- `weather_api.py`: Handles API requests and responses.
-- `analysis.py`: Contains functions for data analysis.
+- `featch_data.py`: Handles API requests and responses including schema creation and data storing.
 - `visualization.py`: Generates charts and visualizations.
-- `.env`: Configuration file for storing your API key.
-- `requirements.txt`: Lists all necessary Python packages.
+- `ouput`: Holds the screenshots of the ploted charts generated 
 
 ## Dependencies
 
 - `requests`: For making HTTP requests to the OpenWeather API
 - `matplotlib`: For creating visualizations
 - `pandas`: For data manipulation and analysis
-- `python-dotenv`: For loading environment variables
+- `seaborn` : Used for data mamipulation, analysis and visualisation
 
-## Contributing
-
-We welcome contributions to improve this project! Please fork the repository, make your changes, and submit a pull request. Be sure to follow the coding guidelines and write clear commit messages.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions or feedback, please open an issue on the GitHub repository or contact me at `your-email@example.com`.
+For any questions or feedback, please open an issue on the GitHub repository or contact me at `bhambeomkar@gmail.com `.
 
 Happy coding and stay informed about the weather!
