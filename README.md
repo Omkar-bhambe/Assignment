@@ -99,5 +99,7 @@ Happy coding and stay informed about the weather!
 
 ### Wind Speed distribution(frequency vs wind speed plot)
 
+<img src = "https://github.com/Omkar-bhambe/Assignment/blob/main/Weather_API/Output/Screenshot%202024-07-27%20003251.png" width = "350">
+
 
 
