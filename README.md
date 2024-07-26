@@ -91,19 +91,19 @@ Happy coding and stay informed about the weather!
 
 ### Temperature over time plot 
 
-<img src = "https://github.com/Omkar-bhambe/Assignment/blob/main/Weather_API/Output/Screenshot%202024-07-27%20003235.png" width = "350">
+<img src = "https://github.com/Omkar-bhambe/Assignment/blob/main/Weather_API/Output/Screenshot%202024-07-27%20003235.png" width = "500">
 
 ### Feels like Temperature over time plot 
 
-<img src = "https://github.com/Omkar-bhambe/Assignment/blob/main/Weather_API/Output/Screenshot%202024-07-27%20003243.png" width = "350">
+<img src = "https://github.com/Omkar-bhambe/Assignment/blob/main/Weather_API/Output/Screenshot%202024-07-27%20003243.png" width = "500">
 
 ### Wind Speed distribution(frequency vs wind speed plot)
 
-<img src = "https://github.com/Omkar-bhambe/Assignment/blob/main/Weather_API/Output/Screenshot%202024-07-27%20003251.png" width = "350">
+<img src = "https://github.com/Omkar-bhambe/Assignment/blob/main/Weather_API/Output/Screenshot%202024-07-27%20003251.png" width = "500">
 
 ### Wind Pie Plot
 
-<img src = "https://github.com/Omkar-bhambe/Assignment/blob/main/Weather_API/Output/Screenshot%202024-07-27%20003325.png" width = "350">
+<img src = "https://github.com/Omkar-bhambe/Assignment/blob/main/Weather_API/Output/Screenshot%202024-07-27%20003325.png" width = "500">
 
 ### Humidity Distribution
 
