@@ -84,3 +84,8 @@ Welcome to the Weather API Analyzer project! This Python-based application allow
 For any questions or feedback, please open an issue on the GitHub repository or contact me at `bhambeomkar@gmail.com `.
 
 Happy coding and stay informed about the weather!
+
+## An Overview of how it will looks like 
+
+![Weather Data Visualization]("C:\Users\bhamb\PycharmProjects\Weather_API\Output")
+
