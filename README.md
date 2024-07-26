@@ -107,7 +107,7 @@ Happy coding and stay informed about the weather!
 
 ### Humidity Distribution
 
-<img src = "https://github.com/Omkar-bhambe/Assignment/blob/main/Weather_API/Output/Screenshot%202024-07-27%20003309.png" width = "500">
+<img src = "https://github.com/Omkar-bhambe/Assignment/blob/main/Output/Humidity%20Distribution.png" width = "500">
 
 
 
