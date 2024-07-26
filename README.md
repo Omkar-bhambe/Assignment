@@ -109,5 +109,9 @@ Happy coding and stay informed about the weather!
 
 <img src = "https://github.com/Omkar-bhambe/Assignment/blob/main/Output/Humidity%20Distribution.png" width = "500">
 
+### Wind Gust Distribution 
+
+<img src = "https://github.com/Omkar-bhambe/Assignment/blob/main/Output/Wind%20Gust%20Distribution.png" width = "500">
+
 
 
