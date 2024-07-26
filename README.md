@@ -87,7 +87,7 @@ Happy coding and stay informed about the weather!
 
 ## An Overview of how it will looks like 
 
-<img src = "https://github.com/Omkar-bhambe/Assignment/blob/main/Weather_API/Output/Screenshot%202024-07-27%20003713.png" width="700">
+<img src = "https://github.com/Omkar-bhambe/Assignment/blob/main/Weather_API/Overall visualization.png" width="700">
 
 ### Temperature over time plot 
 
