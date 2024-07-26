@@ -3,7 +3,7 @@ import datetime as dt
 import sqlite3
 
 # Configuration
-API_KEY = 'cd5a7ecb4bd9d9993fd1dbd33a6ab4e5'  # insert your own API key
+API_KEY = 'INSERT THE API KEY'  # insert your own API key
 CITY = 'Maharashtra'  # insert the name of the place you desire
 URL = f'http://api.openweathermap.org/data/2.5/weather?q={CITY}&appid={API_KEY}&units=metric'
 
