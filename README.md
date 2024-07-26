@@ -69,7 +69,8 @@ Welcome to the Weather API Analyzer project! This Python-based application allow
 
 - `featch_data.py`: Handles API requests and responses including schema creation and data storing.
 - `visualization.py`: Generates charts and visualizations.
-- `ouput`: Holds the screenshots of the ploted charts generated 
+- `ouput`: Holds the screenshots of the ploted charts generated
+- `requirements.txt` : Comprises all the modules and libraries required for the seamless execution of the program
 
 ## Dependencies
 
