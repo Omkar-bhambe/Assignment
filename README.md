@@ -113,5 +113,6 @@ Happy coding and stay informed about the weather!
 
 <img src = "https://github.com/Omkar-bhambe/Assignment/blob/main/Output/Wind%20Gust%20Distribution.png" width = "500">
 
+For the visualization i took Maharashtra into the consideration as far as the locations concerns you can use any other state or city you desire to analyze and visualize your data using these program
 
 
