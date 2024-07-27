@@ -23,7 +23,7 @@ Welcome to the Weather API Analyzer project! This Python-based application allow
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/weather-api-analyzer.git
+    git clone https://github.com/Omkar-bhambe/weather-api-analyzer.git
     cd weather-api-analyzer
     ```
 
