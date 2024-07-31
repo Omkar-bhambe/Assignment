@@ -113,7 +113,7 @@ For the visualization i took Maharashtra into the consideration as far as the lo
 
 1. Step 1 :- First run the file fetch_data.py before that check weather all the modules and libraries are installed you can use any interpreter for execution of the code.
    
-2. Step 2 :- After fetching the data from API (Use your own API key Instructions to generate are mentioned above) the data get automatically store into schema due to the implementation of the sqlite3.
+2. Step 2 :- After fetching the data from API (Use your own API key Instructions to generate are mentioned above) the data get automatically store into schema generated via the queries passed in the code due to the implementation of the sqlite3.
    
 3. Step 3 :- Run visualize.py file once fetch_data.py is completely executed these file will analyze the data fetched from the API by accessing it throught the schema weather_data.db and then visualize it into graphs as shown in above images.
    
